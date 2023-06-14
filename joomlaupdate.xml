@@ -1,0 +1,17 @@
+<updates>
+<update>
+<name>Zoho Mail</name>
+<description>This is Zoho Mail 1.0.0</description>
+<element>com_zohomail</element>
+<type>component</type>
+<version>1.0.0</version>
+<downloads>
+<downloadurl type="full" format="zip">https://raw.githubusercontent.com/zohomail/joomlazohomail/main/com_zohomail.zip</downloadurl>
+</downloads>
+<tags>
+<tag>stable</tag>
+</tags>
+<targetplatform name="joomla" version="4.[0]"/>
+<client>administrator</client>
+</update>
+</updates>
