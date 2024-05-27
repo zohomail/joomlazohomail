@@ -1,7 +1,7 @@
 <updates>
 <update>
 <name>Zoho Mail</name>
-<description>This is Zoho Mail 1.0.0</description>
+<description>This is Zoho Mail 1.1.0</description>
 <element>com_zohomail</element>
 <type>component</type>
 <version>1.1.0</version>
