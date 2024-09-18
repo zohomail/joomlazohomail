@@ -12,7 +12,7 @@
 <tags>
 <tag>stable</tag>
 </tags>
-<targetplatform name="joomla" version="4.(1|2|3|4)|5"/>
+<targetplatform name="joomla" version="4.(0|1|2|3|4)|5"/>
 <client>administrator</client>
 </update>
 </updates>
